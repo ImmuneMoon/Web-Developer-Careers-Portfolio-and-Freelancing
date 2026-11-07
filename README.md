@@ -19,12 +19,10 @@
 - asking for a raise once you're hired;
 - staying current.
 
-It started as a set of community notes written between 2022 and 2024, and has been updated and checked against official sites in November 2026.
-
 ## ⚠️ Important Disclaimer
 * **This isn't legal, tax or financial advice.** The freelancing and pay sections give general information only. Tax and business rules depend on where you live and change often. Check your country's official tax and business sites, and talk to an accountant or lawyer before big decisions.
 * **No result is guaranteed.** Job markets vary by country, city and year. Treat every tip here as something to try, not a promise.
-* **None of these sites or creators are affiliated with this guide.** Videos are linked and credited to their creators. Some links go to Facebook or TikTok, and Facebook links need a login.
+* **None of these sites or creators are affiliated with this guide.** Videos are linked and credited to their creators. Some links go to Facebook or TikTok.
 * **Prices and features change.** Check each site before you pay for anything.
 
 ## 🚀 How to Use
@@ -44,8 +42,6 @@ This guide works alongside the rest of the set:
 ---
 
 <!-- guide:start -->
-
-*Resources, prices and rules were checked, and every credited video was reviewed against what it actually says, in November 2026. They change, so confirm them on each site.*
 
 ## Contents
 
@@ -144,8 +140,6 @@ Examples from The Odin Project, from easiest to hardest:
 * **Node.js course:** Mini Message Board, Inventory Application, Members Only, File Uploader, Blog API, Messaging App, and Odin-Book (a small social network).
 
 More front end project resources are in [Learn Front End Web Development, Section 16](https://github.com/ImmuneMoon/Learn-Front-End-Web-Development#16-projects-to-build), bigger capstone ideas are in [Full Stack Web Development and Stacks, Section 10](https://github.com/ImmuneMoon/Full-Stack-Web-Development-and-Stacks#10-capstone-project-ideas), and coding challenge sites are in [Coding Practice and Interview Prep](https://github.com/ImmuneMoon/Coding-Practice-and-Interview-Prep). Contributing to open source is another strong way to show real-world skill: see [why contribute](https://github.com/ImmuneMoon/Open-Source-and-Developer-Communities#1-why-contribute-to-open-source) and [your first contribution, step by step](https://github.com/ImmuneMoon/Open-Source-and-Developer-Communities#6-your-first-contribution-step-by-step) in Open Source and Developer Communities.
-
-> **About the old link:** the original notes linked devsmak's "Frontend Web Development Projects that got me hired" video. It's now private, so the sites above replace it.
 
 ---
 
@@ -277,7 +271,7 @@ Two resume videos, and what they teach:
 
 Tools:
 * **[FlowCV](https://flowcv.com/)** is a resume builder. Your first resume is free, with unlimited PDF downloads and 100+ templates, without watermarks. A paid Pro plan adds AI writing tools and more resume versions.
-* Matty McTech's reel "An Easy way to Create your Résumé" ([Facebook reel](https://www.facebook.com/reel/477193280694888), needs a login) shows the same kind of tool. You pick sections such as education, type your details, and watch the resume update in a live preview, then choose a template. The reel doesn't name the site out loud, so this guide can't confirm which builder it is. FlowCV works the same way.
+* Matty McTech's reel "An Easy way to Create your Résumé" ([Facebook](https://www.facebook.com/reel/477193280694888)) shows the same kind of tool. You pick sections such as education, type your details, and watch the resume update in a live preview, then choose a template. FlowCV works the same way.
 * The Odin Project's "Project: Building Your Resume" lesson in [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired).
 
 ### 4.3 Cover letters and emails
@@ -288,7 +282,7 @@ Short and specific wins. Say which role you want, one or two things you've built
 
 Applying soon after a job is posted can help, because fewer people have applied yet.
 
-**The "early applicant" LinkedIn trick.** Matty McTech's Facebook reel "Try this Job Search trick out to be one of the first to apply!" (needs a login) says to type this into LinkedIn's job search, with your own job title:
+**The "early applicant" LinkedIn trick.** Matty McTech's Facebook reel "Try this Job Search trick out to be one of the first to apply!" says to type this into LinkedIn's job search, with your own job title:
 
 ```
 "early applicant" AND Software Developer
@@ -296,7 +290,7 @@ Applying soon after a job is posted can help, because fewer people have applied 
 
 The reel promises you'll be among the first to apply. **What it really does:**
 
-* **It changes the results.** When this guide tested it on November 7, 2026 (signed out, United States), all 60 visible results carried LinkedIn's **Be an early applicant** label. A plain "Software Developer" search showed the label on only 10 of 60.
+* **It changes the results.** In a signed-out US search in November 2026, all 60 visible results carried LinkedIn's **Be an early applicant** label. A plain "Software Developer" search showed the label on only 10 of 60.
 * **But the jobs weren't necessarily new.** Many had been posted two weeks to a month earlier, and most were senior roles, so "early applicant" isn't the same as "just posted".
 * **LinkedIn doesn't document it.** Its help pages explain that quotes match an exact phrase and that `AND` must be in capitals, but they don't explain what earns the label or say the phrase works as a filter. Signed-in results, other countries and later changes to LinkedIn may give different results.
 
@@ -470,7 +464,7 @@ When you freelance, nobody withholds tax from your pay, so **set money aside fro
 
 Once you're in a job, your pay won't always rise on its own. Three short videos share one idea: turn the request into a conversation with your manager, not a one-time demand.
 
-* **Jefferson Fisher**, "Best way to ask for a pay raise." ([Facebook reel](https://www.facebook.com/reel/920882897546633), needs a login). The tip: ask your manager what they would do if they wanted to earn more there, or how they reached their own role. Most people enjoy giving their view, and the answer gives you a roadmap.
+* **Jefferson Fisher**, "Best way to ask for a pay raise." ([Facebook](https://www.facebook.com/reel/920882897546633)). The tip: ask your manager what they would do if they wanted to earn more there, or how they reached their own role. Most people enjoy giving their view, and the answer gives you a roadmap.
 * **Jefferson Fisher** (@justaskjefferson), ["This is how to ask for a raise without feeling awkward."](https://www.tiktok.com/@justaskjefferson/video/7641741746371710222) on TikTok. Two tips:
   * Ask first whether you can talk about your salary without it hurting your working relationship, which separates the money from the relationship.
   * Say it's a conversation you'd like to have over the next few weeks. That way it doesn't sound like an ultimatum or a threat to leave, and your manager has time to work on it with you.
@@ -520,8 +514,6 @@ Learn new things by building with them in a small project, the same way you lear
 
 ## 11. Sources
 
-Checked in November 2026.
-
 **Videos and posts credited**
 - codeSTACKr, [This is ALL you NEED to Become a Web Developer Today (2021)](https://youtu.be/LTwFX-hitQo) (December 2020)
 - Adrian Twarog, [Programmer Reacts to Inspiring Portfolio Websites 2024](https://youtu.be/l17NmY_H-E8) (June 2021)
@@ -534,8 +526,8 @@ Checked in November 2026.
 - Created By KC, [The pain of not being able to find a software job](https://youtu.be/BSmLRK0liVg) (March 2023)
 - A Good Living with Nicole Young, [How to Start Freelancing | with HTML + CSS](https://www.youtube.com/watch?v=jl7Jg7ZThkk) (January 2021)
 - freeCodeCamp.org, [Ultimate Freelancing Guide for Web Developers](https://youtu.be/4TIvB8zDFio), by Luke Ciciliano with Cari Ross and Erin Lehr (January 2020)
-- Matty McTech, "An Easy way to Create your Résumé" ([Facebook reel](https://www.facebook.com/reel/477193280694888)) and "Try this Job Search trick out to be one of the first to apply!" (Facebook reel), both need a login
-- Jefferson Fisher, "Best way to ask for a pay raise." ([Facebook reel](https://www.facebook.com/reel/920882897546633)) and ["This is how to ask for a raise without feeling awkward."](https://www.tiktok.com/@justaskjefferson/video/7641741746371710222) (TikTok)
+- Matty McTech, "An Easy way to Create your Résumé" ([Facebook](https://www.facebook.com/reel/477193280694888)) and "Try this Job Search trick out to be one of the first to apply!" (Facebook)
+- Jefferson Fisher, "Best way to ask for a pay raise." ([Facebook](https://www.facebook.com/reel/920882897546633)) and ["This is how to ask for a raise without feeling awkward."](https://www.tiktok.com/@justaskjefferson/video/7641741746371710222) (TikTok)
 - Nick Ayala, ["Ask This Question Instead of Asking for a Raise"](https://www.tiktok.com/@nickjayala/video/7672818534749179167) (TikTok)
 - Codewars blog, [How to get hired as a software developer during a tech recession](https://www.codewars.com/post/how-to-get-hired-as-a-software-developer-during-a-tech-recession)
 
@@ -552,7 +544,7 @@ Checked in November 2026.
 **Job search tools**
 - [FlowCV](https://flowcv.com/), [Hemingway Editor](https://hemingwayapp.com/) and its [readability help](https://hemingwayapp.com/help/docs/readability)
 - LinkedIn Help, [Use Boolean search on LinkedIn](https://www.linkedin.com/help/linkedin/answer/a524335), [Filter and sort job search results](https://www.linkedin.com/help/linkedin/answer/154), [Job alerts on LinkedIn](https://www.linkedin.com/help/linkedin/answer/a511279) and [Skill Assessments: no longer available](https://www.linkedin.com/help/learning/answer/a1690529)
-- LinkedIn job search for `"early applicant" AND Software Developer` and for `Software Developer`, both signed out, United States, tested November 7, 2026
+- LinkedIn job search for `"early applicant" AND Software Developer` and for `Software Developer`, signed out, United States, November 2026
 - Wellfound, [AngelList Talent is now Wellfound](https://wellfound.com/blog/angellist-talent-is-now-wellfound)
 - US Federal Trade Commission, [Job Scams](https://consumer.ftc.gov/articles/job-scams)
 - HR Dive, [Eye tracking study shows recruiters look at resumes for 7 seconds](https://www.hrdive.com/news/eye-tracking-study-shows-recruiters-look-at-resumes-for-7-seconds/541582/) (November 2018, on the Ladders study)
