@@ -3,7 +3,6 @@
 ![Topics: Portfolio, Hiring, Freelancing](https://img.shields.io/badge/Topics-Portfolio%20%7C%20Hiring%20%7C%20Freelancing-1f6feb)
 ![Level: Beginner to junior](https://img.shields.io/badge/Level-Beginner%20to%20junior-2ea44f)
 ![Not legal, tax or financial advice](https://img.shields.io/badge/Not-legal%20or%20tax%20advice-d73a49)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Web-Developer-Careers-Portfolio-and-Freelancing?label=updated)](https://github.com/ImmuneMoon/Web-Developer-Careers-Portfolio-and-Freelancing/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
